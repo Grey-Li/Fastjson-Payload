@@ -4,7 +4,7 @@
 PS C:\Users\Bearcat\Desktop> java -jar Fastjson-Payload.jar
 #####################################################################
 #                                                                   #
-#                       Fastjson 反序列化 RCE                       #
+#                        Fastjson 反序列化 RCE                       #
 #                                                                   #
 #                          www.secfree.com                          #
 #                                                                   #
