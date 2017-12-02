@@ -1,5 +1,7 @@
 # Fastjson-Payload
 
+## 命令执行
+
 ```
 PS C:\Users\Bearcat\Desktop> java -jar Fastjson-Payload.jar
 #####################################################################
@@ -22,3 +24,7 @@ PS C:\Users\Bearcat\Desktop> java -jar Fastjson-Payload.jar --use 20170315
 ```
 
 ![exploit](https://github.com/iBearcat/Fastjson-Payload/blob/master/payload.gif?raw=true)
+
+## 反弹Shell
+
+![exploit](https://github.com/iBearcat/Fastjson-Payload/blob/master/payload-shell.gif?raw=true)
